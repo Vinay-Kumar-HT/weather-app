@@ -1,2 +1,2 @@
 # weather-app
-Weather build using React Framework
+Weather App build using React Framework
